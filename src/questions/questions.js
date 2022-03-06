@@ -5,7 +5,7 @@ const QUESTIONS = [
   },
   {
     id: 1,
-    question: "How would you rate your manager's level of professionalism?"
+    question: "123"
   },
   {
     id: 2,
